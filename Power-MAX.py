@@ -119,9 +119,9 @@ for xd in range(10000):
 
     c=random.randrange(1, 9)
 
-    d='Nokia'
+    d='Nokia'4567s
 
-    e=random.randrange(100, 9999)
+    e=random.randrange(100, 9999)yyyyy
 
     f='/110.021.0028; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/'
 
